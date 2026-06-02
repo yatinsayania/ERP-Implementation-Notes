@@ -1,11 +1,10 @@
 ERP Implementation Lifecycle
 
-1. Requirement Gathering
-2. Gap Analysis
-3. Solution Design
-4. Data Migration
-5. User Training
-6. UAT
-7. Go-Live
-8. Post Go-Live Support
-Folders
+Requirement Gathering
+Gap Analysis
+Solution Design
+Data Migration
+User Training
+UAT
+Go-Live
+Post Go-Live Support
